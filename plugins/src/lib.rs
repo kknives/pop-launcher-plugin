@@ -3,6 +3,7 @@
 
 pub mod calc;
 pub mod desktop_entries;
+pub mod docs;
 pub mod files;
 pub mod find;
 pub mod pop_shell;
